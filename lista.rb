@@ -1,5 +1,5 @@
 class ListaDeTarefas
-    def inicial
+    def initialize
       @tarefas = []
     end
   
